@@ -14,7 +14,8 @@
 		<module>e3-manager-pojo</module>
 		<module>e3-manager-dao</module>
 		<module>e3-manager-service</module>
-		<module>e3-manager-web</module>
+
+		<module>e3-manager-interface</module>
 	</modules>
 	<!-- 后台聚合父工程 管理子工程 （统一打包 部署 启动tomcat） 抽取子工程依赖公共坐标 -->
 	<dependencies>
